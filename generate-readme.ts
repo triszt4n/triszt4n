@@ -6,16 +6,9 @@ interface Tech {
   title: string
 }
 const generateDiv = (tech: Tech): string => {
-  return `<div>
-    <img
-      align=top
-      src="https://github.com/get-icon/geticon/raw/master/icons/${tech.svgTitle}.svg"
-      alt="${tech.title}"
-      width="${iconSize}px"
-      height="${iconSize}px"
-    />
-    <span>${tech.title}</span>
-  </div>`
+  return `<img src="https://github.com/get-icon/geticon/raw/master/icons/${tech.svgTitle}.svg"
+      alt="${tech.title}" align=top width="${iconSize}px" height="${iconSize}px" />
+      <span>${tech.title}</span>\n`
 }
 const iconSize: number = 22 //px
 const currentTech: Array<Tech> = [
