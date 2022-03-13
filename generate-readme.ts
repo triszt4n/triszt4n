@@ -2,43 +2,48 @@ import * as fs from 'fs'
 import path from 'path'
 
 interface Tech {
+  url?: string
   svgTitle: string
   title: string
 }
-const generateDiv = (tech: Tech): string => {
-  return `<img src="https://github.com/get-icon/geticon/raw/master/icons/${tech.svgTitle}.svg"
-      alt="${tech.title}" align=top width="${iconSize}px" height="${iconSize}px" />
-      <span>${tech.title}</span>\n`
+const generateDiv = ({ url, svgTitle, title }: Tech): string => {
+  return (
+    (url ? `<a href="${url}" target="_blank">` : '') +
+    `<img src="https://github.com/get-icon/geticon/raw/master/icons/${svgTitle}.svg"
+      alt="${title}" align=top width="${iconSize}px" height="${iconSize}px" />` +
+    (url ? `</a>` : '') +
+    `<span>${title}&nbsp;&nbsp;</span>\n`
+  )
 }
 const iconSize: number = 22 //px
 const currentTech: Array<Tech> = [
-  { svgTitle: 'typescript-icon', title: 'Typescript' },
-  { svgTitle: 'javascript', title: 'Javascript' },
-  { svgTitle: 'nodejs-icon', title: 'Node.js' },
-  { svgTitle: 'express', title: 'Express' },
-  { svgTitle: 'nestjs', title: 'Nest' },
-  { svgTitle: 'gatsby', title: 'Gatsby' },
-  { svgTitle: 'react', title: 'React' },
-  { svgTitle: 'chakra-icon', title: 'Chakra UI' },
-  { svgTitle: 'docker-icon', title: 'Docker' },
-  { svgTitle: 'azure-icon', title: 'Microsoft Azure' },
+  { url: 'https://www.typescriptlang.org/', svgTitle: 'typescript-icon', title: 'Typescript' },
+  { url: 'https://www.javascript.com/', svgTitle: 'javascript', title: 'Javascript' },
+  { url: 'https://nodejs.org/en/about/', svgTitle: 'nodejs-icon', title: 'Node.js' },
+  { url: 'https://expressjs.com/', svgTitle: 'express', title: 'Express' },
+  { url: 'https://nestjs.com/', svgTitle: 'nestjs', title: 'Nest' },
+  { url: 'https://www.gatsbyjs.com/', svgTitle: 'gatsby', title: 'Gatsby' },
+  { url: 'https://hu.reactjs.org/', svgTitle: 'react', title: 'React' },
+  { url: 'https://chakra-ui.com/', svgTitle: 'chakra-icon', title: 'Chakra UI' },
+  { url: 'https://www.docker.com/', svgTitle: 'docker-icon', title: 'Docker' },
+  { url: 'https://azure.microsoft.com/hu-hu/overview/', svgTitle: 'azure-icon', title: 'Microsoft Azure' },
 ]
 const expTech: Array<Tech> = [
-  { svgTitle: 'kotlin', title: 'Kotlin' },
+  { url: 'https://kotlinlang.org/', svgTitle: 'kotlin', title: 'Kotlin' },
   { svgTitle: 'java', title: 'Java' },
-  { svgTitle: 'spring', title: 'Spring Boot' },
-  { svgTitle: 'vue', title: 'Vue.js' },
-  { svgTitle: 'tailwindcss-icon', title: 'Tailwind CSS' },
+  { url: 'https://spring.io/projects/spring-boot', svgTitle: 'spring', title: 'Spring Boot' },
+  { url: 'https://vuejs.org/', svgTitle: 'vue', title: 'Vue.js' },
+  { url: 'https://tailwindcss.com/', svgTitle: 'tailwindcss-icon', title: 'Tailwind CSS' },
   { svgTitle: 'dotnet', title: '.NET' },
-  { svgTitle: 'rails', title: 'Rails' },
-  { svgTitle: 'graphql', title: 'GraphQL' },
+  { url: 'https://rubyonrails.org/', svgTitle: 'rails', title: 'Rails' },
+  { url: 'https://graphql.org/', svgTitle: 'graphql', title: 'GraphQL' },
 ]
 const toolsTech: Array<Tech> = [
   { svgTitle: 'visual-studio-code', title: 'Visual Studio Code' },
   { svgTitle: 'intellij-idea', title: 'IntelliJ IDEA' },
   { svgTitle: 'yarn', title: 'Yarn v3' },
-  { svgTitle: 'gitkraken', title: 'GitKraken' },
-  { svgTitle: 'vercel', title: 'Vercel' },
+  { url: 'https://www.gitkraken.com/', svgTitle: 'gitkraken', title: 'GitKraken' },
+  { url: 'https://vercel.com/', svgTitle: 'vercel', title: 'Vercel' },
 ]
 
 let content: string = ''
