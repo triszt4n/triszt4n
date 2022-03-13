@@ -9,60 +9,74 @@ Get to know me on [my website](https://triszt4n.xyz/) ⚡
 
 ## Tech stack I am currently working with
 
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"
-      alt="Typescript" align=top width="22px" height="22px" /></a><span>Typescript&nbsp;&nbsp;</span>
-<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"
-      alt="Javascript" align=top width="22px" height="22px" /></a><span>Javascript&nbsp;&nbsp;</span>
 <a href="https://nodejs.org/en/about/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg"
-      alt="Node.js" align=top width="22px" height="22px" /></a><span>Node.js&nbsp;&nbsp;</span>
-<a href="https://expressjs.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg"
-      alt="Express" align=top width="22px" height="22px" /></a><span>Express&nbsp;&nbsp;</span>
+      alt="Node.js" align=top width="22px" height="22px" /></a><span>&nbsp;Node.js&nbsp;&nbsp;</span>
 <a href="https://nestjs.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg"
-      alt="Nest" align=top width="22px" height="22px" /></a><span>Nest&nbsp;&nbsp;</span>
+      alt="Nest" align=top width="22px" height="22px" /></a><span>&nbsp;Nest&nbsp;&nbsp;</span>
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg"
+      alt="Spring Boot" align=top width="22px" height="22px" /></a><span>&nbsp;Spring Boot&nbsp;&nbsp;</span>
 <a href="https://www.gatsbyjs.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/gatsby.svg"
-      alt="Gatsby" align=top width="22px" height="22px" /></a><span>Gatsby&nbsp;&nbsp;</span>
+      alt="Gatsby" align=top width="22px" height="22px" /></a><span>&nbsp;Gatsby&nbsp;&nbsp;</span>
 <a href="https://hu.reactjs.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg"
-      alt="React" align=top width="22px" height="22px" /></a><span>React&nbsp;&nbsp;</span>
+      alt="React" align=top width="22px" height="22px" /></a><span>&nbsp;React&nbsp;&nbsp;</span>
 <a href="https://chakra-ui.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/chakra-icon.svg"
-      alt="Chakra UI" align=top width="22px" height="22px" /></a><span>Chakra UI&nbsp;&nbsp;</span>
+      alt="Chakra UI" align=top width="22px" height="22px" /></a><span>&nbsp;Chakra UI&nbsp;&nbsp;</span>
 <a href="https://www.docker.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg"
-      alt="Docker" align=top width="22px" height="22px" /></a><span>Docker&nbsp;&nbsp;</span>
+      alt="Docker" align=top width="22px" height="22px" /></a><span>&nbsp;Docker&nbsp;&nbsp;</span>
 <a href="https://azure.microsoft.com/hu-hu/overview/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/azure-icon.svg"
-      alt="Microsoft Azure" align=top width="22px" height="22px" /></a><span>Microsoft Azure&nbsp;&nbsp;</span>
+      alt="Microsoft Azure" align=top width="22px" height="22px" /></a><span>&nbsp;Microsoft Azure&nbsp;&nbsp;</span>
 
 
 ## Tech stack I am experienced in
 
-<a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg"
-      alt="Kotlin" align=top width="22px" height="22px" /></a><span>Kotlin&nbsp;&nbsp;</span>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg"
-      alt="Java" align=top width="22px" height="22px" /><span>Java&nbsp;&nbsp;</span>
-<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg"
-      alt="Spring Boot" align=top width="22px" height="22px" /></a><span>Spring Boot&nbsp;&nbsp;</span>
-<a href="https://vuejs.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"
-      alt="Vue.js" align=top width="22px" height="22px" /></a><span>Vue.js&nbsp;&nbsp;</span>
-<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg"
-      alt="Tailwind CSS" align=top width="22px" height="22px" /></a><span>Tailwind CSS&nbsp;&nbsp;</span>
-<img src="https://github.com/get-icon/geticon/raw/master/icons/dotnet.svg"
-      alt=".NET" align=top width="22px" height="22px" /><span>.NET&nbsp;&nbsp;</span>
+<a href="https://expressjs.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg"
+      alt="Express" align=top width="22px" height="22px" /></a><span>&nbsp;Express&nbsp;&nbsp;</span>
 <a href="https://rubyonrails.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/rails.svg"
-      alt="Rails" align=top width="22px" height="22px" /></a><span>Rails&nbsp;&nbsp;</span>
+      alt="Rails" align=top width="22px" height="22px" /></a><span>&nbsp;Rails&nbsp;&nbsp;</span>
+<a href="https://ionicframework.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/ionic.svg"
+      alt="Ionic" align=top width="22px" height="22px" /></a><span>&nbsp;Ionic&nbsp;&nbsp;</span>
 <a href="https://graphql.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/graphql.svg"
-      alt="GraphQL" align=top width="22px" height="22px" /></a><span>GraphQL&nbsp;&nbsp;</span>
+      alt="GraphQL" align=top width="22px" height="22px" /></a><span>&nbsp;GraphQL&nbsp;&nbsp;</span>
+<a href="https://www.android.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/android-icon.svg"
+      alt="Android" align=top width="22px" height="22px" /></a><span>&nbsp;Android&nbsp;&nbsp;</span>
+<a href="https://vuejs.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg"
+      alt="Vue.js" align=top width="22px" height="22px" /></a><span>&nbsp;Vue.js&nbsp;&nbsp;</span>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/tailwindcss-icon.svg"
+      alt="Tailwind CSS" align=top width="22px" height="22px" /></a><span>&nbsp;Tailwind CSS&nbsp;&nbsp;</span>
+<a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/dotnet.svg"
+      alt=".NET" align=top width="22px" height="22px" /></a><span>&nbsp;.NET&nbsp;&nbsp;</span>
+<a href="https://unity.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/unity.svg"
+      alt="Unity" align=top width="22px" height="22px" /></a><span>&nbsp;Unity&nbsp;&nbsp;</span>
+
+
+## Languages that I am comfortable with
+
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg"
+      alt="Typescript" align=top width="22px" height="22px" /></a><span>&nbsp;Typescript&nbsp;&nbsp;</span>
+<a href="https://www.javascript.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg"
+      alt="Javascript" align=top width="22px" height="22px" /></a><span>&nbsp;Javascript&nbsp;&nbsp;</span>
+<a href="https://kotlinlang.org/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/kotlin.svg"
+      alt="Kotlin" align=top width="22px" height="22px" /></a><span>&nbsp;Kotlin&nbsp;&nbsp;</span>
+<a href="https://www.oracle.com/java/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg"
+      alt="Java" align=top width="22px" height="22px" /></a><span>&nbsp;Java&nbsp;&nbsp;</span>
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/ruby.svg"
+      alt="Ruby" align=top width="22px" height="22px" /></a><span>&nbsp;Ruby&nbsp;&nbsp;</span>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-sharp.svg"
+      alt="C#" align=top width="22px" height="22px" /></a><span>&nbsp;C#&nbsp;&nbsp;</span>
 
 
 ## Favourite tools
 
 <img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg"
-      alt="Visual Studio Code" align=top width="22px" height="22px" /><span>Visual Studio Code&nbsp;&nbsp;</span>
+      alt="Visual Studio Code" align=top width="22px" height="22px" /><span>&nbsp;Visual Studio Code&nbsp;&nbsp;</span>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/intellij-idea.svg"
-      alt="IntelliJ IDEA" align=top width="22px" height="22px" /><span>IntelliJ IDEA&nbsp;&nbsp;</span>
+      alt="IntelliJ IDEA" align=top width="22px" height="22px" /><span>&nbsp;IntelliJ IDEA&nbsp;&nbsp;</span>
 <img src="https://github.com/get-icon/geticon/raw/master/icons/yarn.svg"
-      alt="Yarn v3" align=top width="22px" height="22px" /><span>Yarn v3&nbsp;&nbsp;</span>
+      alt="Yarn v3" align=top width="22px" height="22px" /><span>&nbsp;Yarn v3&nbsp;&nbsp;</span>
 <a href="https://www.gitkraken.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/gitkraken.svg"
-      alt="GitKraken" align=top width="22px" height="22px" /></a><span>GitKraken&nbsp;&nbsp;</span>
+      alt="GitKraken" align=top width="22px" height="22px" /></a><span>&nbsp;GitKraken&nbsp;&nbsp;</span>
 <a href="https://vercel.com/" target="_blank"><img src="https://github.com/get-icon/geticon/raw/master/icons/vercel.svg"
-      alt="Vercel" align=top width="22px" height="22px" /></a><span>Vercel&nbsp;&nbsp;</span>
+      alt="Vercel" align=top width="22px" height="22px" /></a><span>&nbsp;Vercel&nbsp;&nbsp;</span>
 
 
 Attributions: _Icons from [Get Icon](https://github.com/get-icon/geticon)_.
