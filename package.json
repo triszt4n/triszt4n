@@ -14,8 +14,8 @@
   "license": "MIT",
   "homepage": "https://github.com/triszt4n/triszt4n#readme",
   "devDependencies": {
-    "@types/node": "^17.0.21",
-    "ts-node": "^10.7.0",
-    "typescript": "^4.6.2"
+    "@types/node": "^17.0.41",
+    "ts-node": "^10.8.1",
+    "typescript": "^4.7.3"
   }
 }
