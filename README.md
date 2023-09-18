@@ -4,7 +4,7 @@ My name's Trisztán Piller, I'm from Hungary. I'm currently working on my Comput
 
 I love exploring the latest web and app development technologies (mainly backend), and I have a deep interest in cloud based development, especially in the serverless microservice architecture. ☁️
 
-Get to know me on [my website](https://trisz.hu/) ⚡
+Get to know me on [my website](https://triszt4n.xyz/) ⚡
 
 
 ## Tech stack I am currently working with
