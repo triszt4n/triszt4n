@@ -1,22 +1,21 @@
 name: Publish
-
 on:
   push:
     branches:
       - master
-
 jobs:
   publish:
     name: Publish
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          node-version: '16'
-      - run: npm install
+          node-version: 'latest'
+      - run: npm ci
       - run: npm run generate
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: Publish changes
